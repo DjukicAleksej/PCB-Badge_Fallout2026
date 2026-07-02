@@ -37,15 +37,15 @@ This badge was made as a personal hardware project for **Fallout 2026**.
   <img src="./Pcb-front.png" alt="Front side of PCB badge" width="700">
 </p>
 
-The front side contains the NFC area, my name, and the main business-card style layout.
+The back side contains the NFC area, my name, and the main business-card style layout.
 
 ### Back Side
 
 <p align="center">
   <img src="./PCB-Back.png" alt="Back side of PCB badge" width="700">
 </p>
+The front side contains the LinkedIn QR code, location/date text, and additional PCB art.
 
-The back side contains the LinkedIn QR code, location/date text, and additional PCB art.
 
 ---
 
